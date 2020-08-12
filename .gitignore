@@ -1,6 +1,8 @@
 /.cache/
 /build/
 /venv/
+/dist/
+/flake8_SQL.egg-info/
 __pycache__/
 *~
 
